@@ -34,7 +34,7 @@ You can find me on [![Twitter][1.2]][1] or on [![Facebook][1.1]][2]
 
 
 ### Projects
-#### 1.) [MORDICAI](#):
+#### 1.) [MORDICAI](https://github.com/M-AliTanveer/Mordecai):
 Developed in *C-language*, me and my group made a complete university management system in lieu of that of our university. The concepts of Programming fundamentals were used to make the backend which was divided into two sections, Teacher's side (to manage attendence and upload grades .etc ) and the students side (to view attendence and grades .etc). For the front end we used the functions of *WINDOWS API* library to impelement an eye candy gui on *windows console*.
 #### 2.) [SEYMOUR](https://github.com/Fawad-Javed-Fateh/Seymour):
 We developed this project in *C++*. Using the principles and knowledges of oop, we made a dekstop application using *winforms* to emulate a fully functional pizzeria along with a robust and fully customizeable menu down to each individual component.
