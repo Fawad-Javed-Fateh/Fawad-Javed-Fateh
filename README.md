@@ -39,7 +39,7 @@ Developed in *C-language*, me and my group made a complete university management
 #### 2.) [SEYMOUR](https://github.com/Fawad-Javed-Fateh/Seymour):
 We developed this project in *C++*. Using the principles and knowledges of oop, we made a dekstop application using *winforms* to emulate a fully functional pizzeria along with a robust and fully customizeable menu down to each individual component.
 #### 3.) [ASHANTI](https://github.com/Fawad-Javed-Fateh/Ashanti): 
-With the theme being *Natural Language Processing (NLP)*, we developed a hyvbrid search utility application whose objective was to search the inputed words from a large corpus of text (poems in our case) and return the results in *less than O(n) time*.
+With the theme being *Natural Language Processing (NLP)*, we developed a hybrid search utility application whose objective was to search the inputed words from a large corpus of text (poems in our case) and return the results in *less than O(n) time*.
 We used advanced data structures and some NLP technicques such as a *Stop Word* filter in order to compress and store our data set into a *hashtable* and reduce the searching time to be nearly constant in a corpus of more than 55k words. We also used ascii art to generate runtime *graphs* which provided the analysis of the frequencies of words in the documents as well as ranked the documents acc to their freuqencies.
 #### 4.) [Niedrige Erwartungen](https://github.com/Fawad-Javed-Fateh/-Niedrige-Erwartungen):
 We used *x86-Assembly Language* in order to develop a visaully pleasing shopping utility application and implemented mouse and sound support for enhanced user interaction. We further manupilated the runtime *heap* in order to dynamically allocate data for our runtime database of employees.
