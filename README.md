@@ -10,8 +10,6 @@
   <img src="images/c-lang.png" height = "50px" width = "50px">
   <img src="images/c++-lang.png" height = "50px" width = "40px">
   <img src="images/asm-lang.png" height = "55px" width = "55px">
-  <img src="images/html5-lang.png" height = "50px" width = "50px">
-  <img src="images/css-lang.png" height = "50px" width = "50px">
  </div>
 
  #### I have used the following applications :ledger: to code my projects so far :
@@ -21,8 +19,14 @@
   <img src="images/github-tool.png" height = "50px" width = "50px">
 </div>
 
-#### These are my basic stats :chart_with_upwards_trend:
-![Fawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fawad-javed-Fateh&show_icons=true)
+#### These are some of my basic stats :chart_with_upwards_trend:
+<a href="https://github.com/Fawad-Javed-Fateh/Fawad-Javed-Fateh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawad-Javed-Fateh&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Fawad-Javed-Fateh/Fawad-Javed-Fateh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fawad-Javed-Fateh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="" />
+</a>
+
 
 ### Projects
 #### 1.) [MORDICAI](#):
