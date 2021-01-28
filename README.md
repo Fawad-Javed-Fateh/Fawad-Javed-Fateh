@@ -4,13 +4,24 @@
 - I am passionate about learning the many nuances of data science :chart: and  andorid development :vibration_mode:
 - I am currently attending FAST-NUCES karachi to attain a bachelors in computer science :school_satchel: 
 - I post :white_check_mark: my developed projects here so i could share them with the community and gain some valuable insights from other developers about my progress and approach. :diamond_shape_with_a_dot_inside:
+
+You can find me on [![Twitter][1.2]][1] or on [![Facebook][1.1]][2]
+
 ### Languages and basic stats
 #### I have used the following languages :electric_plug: to develop my projects so far:
 <div>
   <img src="images/c-lang.png" height = "50px" width = "50px">
   <img src="images/c++-lang.png" height = "50px" width = "40px">
   <img src="images/asm-lang.png" height = "55px" width = "55px">
- </div>
+ </div> 
+ 
+#### These are some of my basic stats :chart_with_upwards_trend:
+<a href="https://github.com/Fawad-Javed-Fateh/Fawad-Javed-Fateh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawad-Javed-Fateh&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Fawad-Javed-Fateh/Fawad-Javed-Fateh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fawad-Javed-Fateh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="" />
+</a>
 
  #### I have used the following applications :ledger: to code my projects so far :
  <div>
@@ -19,13 +30,7 @@
   <img src="images/github-tool.png" height = "50px" width = "50px">
 </div>
 
-#### These are some of my basic stats :chart_with_upwards_trend:
-<a href="https://github.com/Fawad-Javed-Fateh/Fawad-Javed-Fateh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawad-Javed-Fateh&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Fawad-Javed-Fateh/Fawad-Javed-Fateh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fawad-Javed-Fateh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="" />
-</a>
+
 
 
 ### Projects
@@ -40,6 +45,11 @@ We used advanced data structures and some NLP technicques such as a *Stop Word* 
 We used *x86-Assembly Language* in order to develop a visaully pleasing shopping utility application and implemented mouse and sound support for enhanced user interaction. We further manupilated the runtime *heap* in order to dynamically allocate data for our runtime database of employees.
 
 
+<!-- icons with padding -->
 
+[1.2]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.1]:http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[1]:https://twitter.com/Fawad_javed
+[2]:https://www.facebook.com/fawadjaved.fateh/
 
 
