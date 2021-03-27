@@ -1,4 +1,4 @@
-## Hi there visitor 👋, my name is Fawad Javed Fateh and welcome to my profile :blush:
+## Welcome to Fawad Fateh's GitHub Profile :blush:
 ### Basic Info
 - I am proficient in c and c++ and am currently working with html,css and javascript to learn basic web development :computer:
 - I am passionate about learning the many nuances of data science :chart: and  andorid development :vibration_mode:
