@@ -1,21 +1,17 @@
-## Welcome to Fawad Fateh's GitHub Profile :blush:
-### Basic Info
-- I am proficient in c and c++ and am currently working with html,css and javascript to learn basic web development :computer:
-- I am passionate about learning the many nuances of data science :chart: and  andorid development :vibration_mode:
-- I am currently attending FAST-NUCES karachi to attain a bachelors in computer science :school_satchel: 
-- I post :white_check_mark: my developed projects here so i could share them with the community and gain some valuable insights from other developers about my progress and approach. :diamond_shape_with_a_dot_inside:
+## This is my Design
+Hi I am Fawad. I love to code and build solutions. I have a keen interest in sharing my progress and strive to contribute wherever needed. Usually when im not coding im surfing the gargantuan wonder that is the world wide web.
 
 You can find me on [![Twitter][1.2]][1] or on [![Facebook][1.1]][2]
 
 ### Languages and basic stats
-#### I have used the following languages :electric_plug: to develop my projects so far:
+
 <div>
   <img src="images/c-lang.png" height = "50px" width = "50px">
   <img src="images/c++-lang.png" height = "50px" width = "40px">
   <img src="images/asm-lang.png" height = "55px" width = "55px">
  </div> 
  
-#### These are some of my basic stats :chart_with_upwards_trend:
+#### 
 <a href="https://github.com/Fawad-Javed-Fateh/Fawad-Javed-Fateh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawad-Javed-Fateh&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
